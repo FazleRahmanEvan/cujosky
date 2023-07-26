@@ -41,7 +41,9 @@ const SEOPriceCard = () => {
         <p className='mt-3 mb-2'>Monthly Video Report</p>
         <p className='mt-7 mb-2'>$500 ONE-TIME SETUP</p>
     </div>
-
+<div>
+    
+</div>
     <div className='mt-5 mb-3 ml-1'>
     <button className="bg-stone-800 hover:bg-slate-800 text-white w-56 h-12  font-semibold text-xl rounded-md" onClick={()=>window.my_modal_1.showModal()}>Start Live Chat</button>
 <dialog id="my_modal_1" className="modal">
