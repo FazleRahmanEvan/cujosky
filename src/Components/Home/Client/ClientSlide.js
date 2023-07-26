@@ -7,7 +7,7 @@ const ClientSlide = ({client}) => {
           
            
            <figure className="px-14  pt-10">
-               <img src={image} class="rounded-2xl " />
+               <img alt='' src={image} class="rounded-2xl " />
              
                
            </figure>
