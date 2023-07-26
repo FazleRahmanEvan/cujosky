@@ -11,7 +11,7 @@ const Navbar = () => {
   <div class="flex-1 pl-10">
   <label tabindex="0" class="btn btn-ghost btn-circle w-36 h-36 avatar">
          <div class="navbar-start w-36 rounded-full ">
-           <img src="https://i.ibb.co/1rWG0ZL/CJ-Logo-03.png" />
+           <img alt='' src="https://i.ibb.co/1rWG0ZL/CJ-Logo-03.png" />
          </div>
        </label>
   </div>
